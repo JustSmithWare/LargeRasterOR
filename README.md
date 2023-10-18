@@ -1,6 +1,6 @@
 # Large Raster Object Recognition Model Training
 ### Summary
-The ´main.ipynb´ notebook gathers up the necessary code to train a RetinaNet-based object recognition model using pytorch lightning.
+The `main.ipynb` notebook gathers up the necessary code to train a RetinaNet-based object recognition model using pytorch lightning.
 
 What makes this model and training process stand out, is that it's mainly oriented to train on really large raster images, namely satellite imagery of the earth's surface, astronomical imagery, or any simmilar task where raster data is often in the form of large, high-resolution files.  
 
